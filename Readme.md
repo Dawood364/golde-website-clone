@@ -1,7 +1,7 @@
 # Golde Website Clone
 
-This project is a clone of the Golde website, built using HTML, CSS, and JavaScript.  
-I also enhanced the clone by adding a video section showcasing product highlights.
+This project is a clone of the Golde website, built using **HTML and CSS**.  
+I enhanced the clone by adding a video section showcasing product highlights.
 
 ## Features
 
