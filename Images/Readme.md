@@ -15,7 +15,7 @@ Open `index.html` in your browser to see the site locally.
 
 ## Screenshots
 
-![Homepage](images/Home.png)  
+![Home](images/Home.png)  
 _Homepage showing header, product sections, and footer._
 
 ## License
